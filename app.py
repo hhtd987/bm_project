@@ -1,3 +1,3 @@
 print('website header')
-print('add hero section')
+print('update hero picture')
 print('add about section')
